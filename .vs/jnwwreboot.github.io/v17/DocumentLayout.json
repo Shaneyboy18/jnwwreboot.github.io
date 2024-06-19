@@ -9,6 +9,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VCS\\SD3\\Github\\jnwwreboot.github.io\\characters.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:characters.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\VCS\\SD3\\Github\\jnwwreboot.github.io\\assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
+          "DockedWidth": 315,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -28,9 +32,10 @@
               "RelativeDocumentMoniker": "characters.html",
               "ToolTip": "D:\\VCS\\SD3\\Github\\jnwwreboot.github.io\\characters.html",
               "RelativeToolTip": "characters.html",
-              "ViewState": "AQIAAFQAAAAAAAAAAAAAAIUAAAA0AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIUAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-06-16T23:31:55.28Z"
+              "WhenOpened": "2024-06-16T23:31:55.28Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,9 +45,28 @@
               "RelativeDocumentMoniker": "index.html",
               "ToolTip": "D:\\VCS\\SD3\\Github\\jnwwreboot.github.io\\index.html",
               "RelativeToolTip": "index.html",
-              "ViewState": "AQIAACoAAAAAAAAAAAAAADoAAAAXAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAGIAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-06-16T22:31:25.572Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 85,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "style.css",
+              "DocumentMoniker": "D:\\VCS\\SD3\\Github\\jnwwreboot.github.io\\assets\\css\\style.css",
+              "RelativeDocumentMoniker": "assets\\css\\style.css",
+              "ToolTip": "D:\\VCS\\SD3\\Github\\jnwwreboot.github.io\\assets\\css\\style.css",
+              "RelativeToolTip": "assets\\css\\style.css",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIEAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-19T07:58:10.263Z",
               "EditorCaption": ""
             }
           ]
